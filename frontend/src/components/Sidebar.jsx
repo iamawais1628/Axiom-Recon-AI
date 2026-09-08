@@ -12,6 +12,7 @@ export default function Sidebar({ user, currentPage, onNavigate }) {
     { id: 'exceptions', label: 'Exceptions', icon: 'EX' },
     { id: 'history', label: 'History', icon: 'HI' },
     { id: 'rules', label: 'Rules', icon: 'RU' },
+    { id: 'reports', label: 'Reports', icon: 'RP' },
     { id: 'settings', label: 'Settings', icon: 'ST' },
   ];
  
